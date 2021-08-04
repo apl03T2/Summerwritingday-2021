@@ -28,9 +28,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneURL",
+                 "name":"exitURL",
                  "type":"string",
-                 "value":"map_origin.json#startLayer"
+                 "value":"\/map_origin\/map_origin.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -141,15 +141,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }]
-                }, 
-                {
-                 "id":8,
-                 "properties":[
-                        {
-                         "name":"exitSceneURL",
-                         "type":"string",
-                         "value":"map.json#start"
                         }]
                 }],
          "tilewidth":32
