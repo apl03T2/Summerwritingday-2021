@@ -30,7 +30,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"map.json#start"
+                 "value":"map.json#startLayer"
                 }],
          "type":"tilelayer",
          "visible":true,
