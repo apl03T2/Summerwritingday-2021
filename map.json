@@ -30,7 +30,7 @@
                 {
                  "name":"exitSceneURL",
                  "type":"string",
-                 "value":"map.json#start"
+                 "value":"map.json#startLayer"
                 }],
          "type":"tilelayer",
          "visible":true,
