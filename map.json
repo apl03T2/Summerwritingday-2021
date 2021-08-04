@@ -142,6 +142,15 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "id":8,
+                 "properties":[
+                        {
+                         "name":"exitURL",
+                         "type":"string",
+                         "value":"map.json#start"
+                        }]
                 }],
          "tilewidth":32
         }, 
