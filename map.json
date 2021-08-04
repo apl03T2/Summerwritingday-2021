@@ -30,7 +30,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"\/Summerwritingday-2021\/map.json#startLayer"
+                 "value":"https:\/\/apl03t2.github.io\/Summerwritingday-2021\/map_origin\/map_origin.json"
                 }],
          "type":"tilelayer",
          "visible":true,
