@@ -63,7 +63,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"map_showroom.json#start"
+                         "value":"\/map_showroom.json#start"
                         }],
                  "type":"tilelayer",
                  "visible":true,
