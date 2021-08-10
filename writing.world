@@ -6,13 +6,6 @@
             "width": 1984,
             "x": 0,
             "y": 0
-        },
-        {
-            "fileName": "map_showroom.json",
-            "height": 960,
-            "width": 960,
-            "x": 1984,
-            "y": 0
         }
     ],
     "onlyShowAdjacentMaps": false,
