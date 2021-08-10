@@ -59,6 +59,12 @@
                  "id":13,
                  "name":"exit_show room",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"exitURL",
+                         "type":"string",
+                         "value":"map_showroom.json#start"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":62,
