@@ -81,7 +81,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"map_two.json#start"
+                         "value":"map.json#startstart"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -97,9 +97,9 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitSceneURL",
                          "type":"string",
-                         "value":"map_two.json#startstart"
+                         "value":"map.json#startstart"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -330,7 +330,7 @@
          "name":"on top of floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":62,
          "x":0,
          "y":0
@@ -342,7 +342,7 @@
          "name":"on top of top of floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":62,
          "x":0,
          "y":0
@@ -478,7 +478,7 @@
          "name":"top1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":62,
          "x":0,
          "y":0
