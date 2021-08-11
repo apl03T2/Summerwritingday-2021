@@ -81,7 +81,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"map.json#start"
+                         "value":"\/Summerwritingday-2021\/map.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
