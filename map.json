@@ -51,7 +51,7 @@
                         {
                          "name":"exitSceneURL",
                          "type":"string",
-                         "value":"\/_\/map_showroom.json#startstartFromMain"
+                         "value":"\/_\/showroom\/map_showroom.json#startstartFromMain"
                         }],
                  "type":"tilelayer",
                  "visible":true,
