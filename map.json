@@ -65,6 +65,12 @@
                  "id":16,
                  "name":"exit_Empfangsraum",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"exitURL",
+                         "type":"string",
+                         "value":"\/_\/map_origin\/play.workadventu.re\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map_origin.json"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":62,
@@ -95,6 +101,12 @@
                  "id":15,
                  "name":"exit_Veranstaltungen",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"exitURL",
+                         "type":"string",
+                         "value":"\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map_origin.json"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":62,
