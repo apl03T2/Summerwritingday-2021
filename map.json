@@ -87,7 +87,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"{<Summerwritingday-2021>\/map_origin.json}"
+                         "value":"{<Summerwritingday-2021>\/map_origin.json#start}"
                         }],
                  "type":"tilelayer",
                  "visible":true,
