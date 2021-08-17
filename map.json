@@ -33,7 +33,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"\/_\/map_origin\/map_origin.json"
+                         "value":"\/_\/map_origin.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -51,7 +51,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"\/_\/Summerwritingday-2021\/add maps\/map_origin.json"
+                         "value":"\/map_origin.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -69,7 +69,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"\/_\/map_origin\/play.workadventu.re\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map_origin.json"
+                         "value":"\/_\/add maps\/map_origin.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -87,7 +87,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"\/_\/Summerwritingday-2021\/map_origin.json"
+                         "value":"\/Summerwritingday-2021\/map_origin.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -105,7 +105,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map_origin.json"
+                         "value":"\/_\/play.workadventu.re\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map_origin.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
