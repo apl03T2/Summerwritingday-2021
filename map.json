@@ -33,7 +33,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"\/_\/map_origin.json"
+                         "value":"map_origin.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -69,7 +69,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"\/_\/add maps\/map_origin.json"
+                         "value":"map_origin.json#start"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -87,7 +87,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"{<Summerwritingday-2021>\/map_origin.json#start}"
+                         "value":"\/map_origin.json#start}"
                         }],
                  "type":"tilelayer",
                  "visible":true,
