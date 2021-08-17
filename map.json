@@ -61,7 +61,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitSceneURL",
                          "type":"string",
                          "value":"\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/add_maps\/map_origin.json"
                         }],
