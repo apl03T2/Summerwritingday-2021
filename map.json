@@ -33,7 +33,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"map_showroom.json#startstartFromMain"
+                         "value":"\/_\/map_showroom.json#startstartFromMainhh"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -51,7 +51,7 @@
                         {
                          "name":"exitSceneURL",
                          "type":"string",
-                         "value":"\/_\/showroom\/map_showroom.json#startstartFromMain"
+                         "value":"\/_\/add_rooms\/map_showroom.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -81,7 +81,7 @@
                         {
                          "name":"exitURL",
                          "type":"string",
-                         "value":"\/Summerwritingday-2021\/map.json"
+                         "value":"\/_\/map.json#start"
                         }],
                  "type":"tilelayer",
                  "visible":true,
