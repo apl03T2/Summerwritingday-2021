@@ -95,7 +95,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"02_exit_fears.mp3"
+                 "value":"Heartbeats.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
