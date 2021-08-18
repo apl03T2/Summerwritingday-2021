@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map.json"
+                 "value":"\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map.json#entry_show room"
                 }],
          "type":"tilelayer",
          "visible":true,
