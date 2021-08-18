@@ -51,7 +51,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/add_maps\/map_showroom.json"
+                         "value":"\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map.json#start"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -111,7 +111,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map.json#entry_show room"
+                         "value":"\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map_origin.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
