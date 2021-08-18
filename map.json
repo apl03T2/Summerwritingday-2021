@@ -47,12 +47,6 @@
                  "id":9,
                  "name":"exit_chill out",
                  "opacity":1,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map.json#start"
-                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":62,
@@ -77,6 +71,12 @@
                  "id":15,
                  "name":"exit_Veranstaltungen",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map_origin.json"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":62,
@@ -107,12 +107,6 @@
                  "id":16,
                  "name":"exit_Empfangsraum",
                  "opacity":1,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map_origin.json"
-                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":62,
@@ -135,6 +129,12 @@
                  "id":19,
                  "name":"entry_Veranstaltungen",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":62,
