@@ -92,6 +92,12 @@
          "id":16,
          "name":"Einschreibung",
          "opacity":0.93,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"http:\/\/tabble.de\/show.jsp?id=tbr-724b632b-5252-4806-a096-7e00a25fd0e6"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
@@ -203,7 +209,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/meet.uni-leipzig.de\/b\/plo-2r4-hah"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
