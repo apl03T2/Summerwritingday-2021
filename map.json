@@ -489,7 +489,7 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"\"startWithAudioMuted\": true"
+                 "value":"startWithAudioMuted"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -505,6 +505,11 @@
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Press space to join! "
+                }, 
+                {
+                 "name":"startWithAudioMuted",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
