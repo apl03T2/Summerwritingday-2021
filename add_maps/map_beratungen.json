@@ -376,6 +376,12 @@
          "id":15,
          "name":"Infotafel",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/speicherwolke.uni-leipzig.de\/index.php\/s\/smCJaf6mEadrFgg"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
