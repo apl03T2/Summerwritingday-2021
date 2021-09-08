@@ -380,7 +380,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1M8giE-2thGKpUKbjjwckJMhB1JoHa1Bw\/view?usp=sharing"
+                 "value":"<iframe src=\"https:\/\/drive.google.com\/file\/d\/1M8giE-2thGKpUKbjjwckJMhB1JoHa1Bw\/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"><\/iframe>"
                 }],
          "type":"tilelayer",
          "visible":true,
