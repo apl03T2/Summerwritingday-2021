@@ -320,7 +320,7 @@
                  "value":"jitsi_information"
                 }, 
                 {
-                 "name":"jitsiRoomTrigger",
+                 "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
                 }],
@@ -346,7 +346,7 @@
                          "value":"jitsi_table1"
                         }, 
                         {
-                         "name":"jitsiRoomTrigger",
+                         "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -369,7 +369,7 @@
                          "value":"jitsi_table2"
                         }, 
                         {
-                         "name":"jitsiRoomTrigger",
+                         "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -392,7 +392,7 @@
                          "value":"jitsi_table3"
                         }, 
                         {
-                         "name":"jitsiRoomTrigger",
+                         "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -415,7 +415,7 @@
                          "value":"jitsi_table4"
                         }, 
                         {
-                         "name":"jitsiRoomTrigger",
+                         "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -438,7 +438,7 @@
                          "value":"jitsi_table5"
                         }, 
                         {
-                         "name":"jitsiRoomTrigger",
+                         "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -461,7 +461,7 @@
                          "value":"jitsi_table6"
                         }, 
                         {
-                         "name":"jitsiRoomTrigger",
+                         "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -484,7 +484,7 @@
                          "value":"jitsi_table7"
                         }, 
                         {
-                         "name":"jitsiRoomTrigger",
+                         "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -507,7 +507,7 @@
                          "value":"jitsi_table8"
                         }, 
                         {
-                         "name":"jitsiRoomTrigger",
+                         "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -530,7 +530,7 @@
                          "value":"jitsi_table9"
                         }, 
                         {
-                         "name":"jitsiRoomTrigger",
+                         "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
