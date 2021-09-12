@@ -744,6 +744,32 @@
          "tilecount":2052,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":7,
+         "firstgid":15166,
+         "image":"..\/..\/..\/00_WorkAdventure\/WORKADVENTURE\/Map building & Git Hub\/Maps_Edit Backgrounds\/g333.png",
+         "imageheight":352,
+         "imagewidth":249,
+         "margin":0,
+         "name":"g333",
+         "spacing":0,
+         "tilecount":77,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":15243,
+         "image":"..\/..\/..\/00_WorkAdventure\/WORKADVENTURE\/Map building & Git Hub\/Maps_Edit Backgrounds\/Schilder_Signs_A4.svg",
+         "imageheight":1122,
+         "imagewidth":793,
+         "margin":0,
+         "name":"Schilder_Signs_A4",
+         "spacing":0,
+         "tilecount":840,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
