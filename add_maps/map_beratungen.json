@@ -785,19 +785,6 @@
          "tilecount":1066,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":24,
-         "firstgid":27284,
-         "image":"..\/..\/..\/00_WorkAdventure\/WORKADVENTURE\/Map building & Git Hub\/Maps_Edit Backgrounds\/signs.tiff",
-         "imageheight":1100,
-         "imagewidth":778,
-         "margin":0,
-         "name":"signs",
-         "spacing":0,
-         "tilecount":816,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
