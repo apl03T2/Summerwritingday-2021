@@ -610,7 +610,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/speicherwolke.uni-leipzig.de\/index.php\/s\/JXo7AXczArtCNNM"
+                 "value":"https:\/\/speicherwolke.uni-leipzig.de\/index.php\/s\/JXo7AXczArtCNNM\/preview"
                 }],
          "type":"tilelayer",
          "visible":true,
