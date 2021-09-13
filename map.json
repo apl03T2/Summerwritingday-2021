@@ -592,7 +592,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/drive.google.com\/file\/d\/1MzW7WoLj4Ovrd7rUQBmpeQonR3tbzc0s\/preview"
                 }],
          "type":"tilelayer",
          "visible":true,
