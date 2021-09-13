@@ -726,12 +726,6 @@
          "id":38,
          "name":"ontopoftopoftop",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"Heartbeats.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":62,
