@@ -1093,15 +1093,6 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
-                {
-                 "id":8,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/writingday2021"
-                        }]
                 }],
          "tilewidth":32
         }, 
