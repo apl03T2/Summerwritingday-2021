@@ -87,7 +87,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/workshops"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/map_veranstaltungen"
                         }],
                  "type":"tilelayer",
                  "visible":true,
