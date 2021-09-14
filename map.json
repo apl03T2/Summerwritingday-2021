@@ -51,7 +51,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_chillout.json#start"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/chillout"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -69,7 +69,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_beratungen.json#start"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/consultations"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -87,7 +87,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_veranstaltungen.json#start"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/workshops"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -105,7 +105,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_showroom.json#start"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/showroom"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1098,9 +1098,9 @@
                  "id":8,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
-                         "value":"map.json#start"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/writingday2021"
                         }]
                 }],
          "tilewidth":32
