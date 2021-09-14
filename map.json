@@ -105,7 +105,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/showroom"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/showroom#start"
                         }],
                  "type":"tilelayer",
                  "visible":true,
