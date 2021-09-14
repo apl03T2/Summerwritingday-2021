@@ -87,7 +87,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/map_veranstaltungen"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/Consultations"
                         }],
                  "type":"tilelayer",
                  "visible":true,
