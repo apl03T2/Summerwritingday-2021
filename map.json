@@ -51,7 +51,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_chillout.json"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_chillout.json#start"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -69,7 +69,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_beratungen.json"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_beratungen.json#start"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -87,7 +87,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_veranstaltungen.json"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_veranstaltungen.json#start"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -105,7 +105,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_showroom.json"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_showroom.json#start"
                         }],
                  "type":"tilelayer",
                  "visible":true,
