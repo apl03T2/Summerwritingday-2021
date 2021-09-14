@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/uni-leipzig\/writingdayws2021\/add_maps\/map_showroom.json#entryFromExtension"
+                 "value":"\/@\/uni-leipzig\/writingdayws2021\/showroom#entryFromExtension"
                 }],
          "type":"tilelayer",
          "visible":true,

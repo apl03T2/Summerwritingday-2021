@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/testthis\/apl03t2.github.io\/Summerwritingday-2021\/map.json"
+                 "value":"\/@\/uni-leipzig\/writingdayws2021\/writingday2021"
                 }],
          "type":"tilelayer",
          "visible":true,
