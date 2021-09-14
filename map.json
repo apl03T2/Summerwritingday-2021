@@ -87,7 +87,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/Consultations"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/workshops"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -105,7 +105,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/uni-leipzig\/writingdayws2021\/showroom#start"
+                         "value":"\/@\/uni-leipzig\/writingdayws2021\/showroom"
                         }],
                  "type":"tilelayer",
                  "visible":true,
