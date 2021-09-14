@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/uni-leipzig\/writingdayws2021\/writingday2021"
+                 "value":"\/@\/uni-leipzig\/writingdayws2021\/writingday2021#entry_showroom"
                 }],
          "type":"tilelayer",
          "visible":true,
