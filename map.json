@@ -648,6 +648,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/uni-leipzig.zoom.us\/j\/62322833853"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
