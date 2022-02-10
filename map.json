@@ -949,80 +949,17 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "id":17,
-                 "template":"Font_Floor.tx",
-                 "x":434.666666666667,
-                 "y":13.8333333333334
-                }, 
-                {
-                 "height":43.6666666666667,
-                 "id":19,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#ffffff",
-                     "fontfamily":"Lucida Sans",
-                     "halign":"center",
-                     "text":"Beratungen\/Consultations",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":124,
-                 "x":1381.33333333333,
-                 "y":6.66666666666634
-                }, 
-                {
-                 "height":23.6666666666667,
-                 "id":21,
-                 "name":"",
-                 "rotation":90,
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#ffffff",
-                     "fontfamily":"Lucida Sans",
-                     "text":"Chillout Area",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":124,
-                 "x":1960.66666666667,
-                 "y":403.833333333333
-                }, 
-                {
-                 "height":48.9999999999998,
-                 "id":22,
-                 "name":"",
-                 "rotation":-180,
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#ffffff",
-                     "fontfamily":"Lucida Sans",
-                     "text":"Empfangsbereich\/ Entrance",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":155.333333333333,
-                 "x":1071.33333333334,
-                 "y":1071.83333333333
-                }, 
-                {
                  "height":55.6666333333335,
                  "id":23,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
+                     "bold":true,
                      "color":"#ffffff",
-                     "fontfamily":"Lucida Sans",
+                     "fontfamily":"Calibri",
                      "halign":"center",
-                     "pixelsize":19,
+                     "pixelsize":21,
                      "text":"WILLKOMMEN! WELCOME!",
                      "wrap":true
                     },
@@ -1033,58 +970,137 @@
                  "y":1546.16668333333
                 }, 
                 {
-                 "height":50.3333,
-                 "id":24,
+                 "height":44.8333,
+                 "id":28,
                  "name":"",
-                 "rotation":-90,
+                 "rotation":-180,
                  "text":
                     {
                      "bold":true,
                      "color":"#ffffff",
-                     "fontfamily":"Lucida Sans",
-                     "text":"Showroom",
+                     "fontfamily":"Calibri",
+                     "text":"Empfangsbereich\/ Entrance",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":116,
-                 "x":22.666666666667,
-                 "y":515.500016666666
+                 "width":127,
+                 "x":1074.33333333333,
+                 "y":1073.58335
                 }, 
                 {
-                 "height":24,
-                 "id":27,
-                 "template":"Font_Floor.tx",
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#ffffff",
-                     "fontfamily":"Lucida Sans",
-                     "text":"B\u00fchne\/Stage",
-                     "wrap":true
-                    },
-                 "width":124.3333,
-                 "x":1033.83335,
-                 "y":233
-                }, 
-                {
-                 "height":50.3333,
-                 "id":28,
+                 "height":44.8333,
+                 "id":30,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
                      "bold":true,
                      "color":"#ffffff",
-                     "fontfamily":"Lucida Sans",
-                     "text":"Hauptraum\/Main ",
+                     "fontfamily":"Calibri",
+                     "text":"Hauptraum\/ Main Room ",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":116,
-                 "x":857.833333333333,
-                 "y":1126.58335
+                 "width":102,
+                 "x":843.333333333333,
+                 "y":1134.33335
+                }, 
+                {
+                 "height":44.8333,
+                 "id":31,
+                 "name":"",
+                 "rotation":-90,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Calibri",
+                     "text":"Showroom",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":102,
+                 "x":16.8333333333334,
+                 "y":500.33335
+                }, 
+                {
+                 "height":44.8333,
+                 "id":32,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Calibri",
+                     "text":"Workshops",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":102,
+                 "x":437.833333333333,
+                 "y":45.3333500000001
+                }, 
+                {
+                 "height":44.8333,
+                 "id":33,
+                 "name":"",
+                 "rotation":90,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Calibri",
+                     "text":"Chillout Area",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":102,
+                 "x":1954.83333333333,
+                 "y":420.33335
+                }, 
+                {
+                 "height":44.8333,
+                 "id":34,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Calibri",
+                     "text":"Beratungen\/ Consultations",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":102,
+                 "x":1411.83333333333,
+                 "y":40.33335
+                }, 
+                {
+                 "height":44.8333,
+                 "id":35,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Calibri",
+                     "text":"B\u00fchne\/Stage",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":102,
+                 "x":1055.16666666667,
+                 "y":333.666683333333
                 }],
          "offsetx":0.166666666666629,
          "offsety":0.249999999999972,
@@ -1207,7 +1223,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":29,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.8.0",
