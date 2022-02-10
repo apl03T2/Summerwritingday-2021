@@ -251,7 +251,26 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":41.25,
+                 "id":1,
+                 "name":"",
+                 "rotation":-90,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Calibri",
+                     "text":"Hauptraum\/ Main Room",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":94.25,
+                 "x":11.5,
+                 "y":440.5
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -283,10 +302,10 @@
          "y":0
         }],
  "nextlayerid":22,
- "nextobjectid":1,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.8.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -875,6 +894,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":"1.8",
  "width":21
 }
