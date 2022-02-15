@@ -1094,6 +1094,59 @@
                  "width":118.9167,
                  "x":431.04165,
                  "y":599.5
+                }, 
+                {
+                 "height":19,
+                 "id":21,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"MS Shell Dlg 2",
+                     "pixelsize":4,
+                     "text":"Test Orig Font_4_ bold",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":140,
+                 "x":436.75,
+                 "y":646
+                }, 
+                {
+                 "height":19,
+                 "id":22,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Test Orig Font_12",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":140,
+                 "x":433.5,
+                 "y":615.5
+                }, 
+                {
+                 "height":19,
+                 "id":23,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"MS Shell Dlg 2",
+                     "pixelsize":8,
+                     "text":"Test Orig Font_6",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":140,
+                 "x":435.5,
+                 "y":634.25
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1126,7 +1179,7 @@
          "y":0
         }],
  "nextlayerid":49,
- "nextobjectid":21,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.8.0",
