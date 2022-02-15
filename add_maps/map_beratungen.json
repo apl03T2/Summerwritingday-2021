@@ -1112,7 +1112,7 @@
                  "visible":true,
                  "width":140,
                  "x":436.75,
-                 "y":646
+                 "y":653.25
                 }, 
                 {
                  "height":19,
@@ -1121,12 +1121,14 @@
                  "rotation":0,
                  "text":
                     {
+                     "bold":true,
+                     "fontfamily":"MS Shell Dlg 2",
                      "text":"Test Orig Font_12",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":140,
+                 "width":170.75,
                  "x":433.5,
                  "y":615.5
                 }, 
@@ -1145,8 +1147,8 @@
                  "type":"",
                  "visible":true,
                  "width":140,
-                 "x":435.5,
-                 "y":634.25
+                 "x":435.25,
+                 "y":637.75
                 }],
          "opacity":1,
          "type":"objectgroup",
