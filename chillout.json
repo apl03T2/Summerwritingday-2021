@@ -3,18 +3,6 @@
  "infinite":false,
  "layers":[
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0],
-         "height":21,
-         "id":8,
-         "name":"collide",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":21,
-         "x":0,
-         "y":0
-        }, 
-        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":4,
@@ -26,6 +14,18 @@
                  "type":"bool",
                  "value":true
                 }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":21,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0],
+         "height":21,
+         "id":8,
+         "name":"collide",
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":21,
@@ -253,7 +253,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":41.25,
+                 "height":59.5799237493026,
                  "id":1,
                  "name":"",
                  "rotation":-90,
@@ -262,14 +262,14 @@
                      "bold":true,
                      "color":"#ffffff",
                      "fontfamily":"Calibri",
-                     "text":"Hauptraum\/ Main Room",
+                     "text":"Hauptraum \/\nMain Room",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":94.25,
-                 "x":11.5,
-                 "y":440.5
+                 "width":140.074809373256,
+                 "x":8.16728659103588,
+                 "y":461.329458806026
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -305,13 +305,13 @@
  "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.8.1",
+ "tiledversion":"1.8.2",
  "tileheight":32,
  "tilesets":[
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/src\/assets\/Special_Zones.png",
+         "image":"src\/assets\/Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -334,7 +334,7 @@
         {
          "columns":10,
          "firstgid":13,
-         "image":"..\/src\/assets\/tileset6_export.png",
+         "image":"src\/assets\/tileset6_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -347,7 +347,7 @@
         {
          "columns":11,
          "firstgid":113,
-         "image":"..\/src\/assets\/tileset1.png",
+         "image":"src\/assets\/tileset1.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -360,7 +360,7 @@
         {
          "columns":11,
          "firstgid":234,
-         "image":"..\/src\/assets\/tileset1-repositioning.png",
+         "image":"src\/assets\/tileset1-repositioning.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -373,7 +373,7 @@
         {
          "columns":11,
          "firstgid":355,
-         "image":"..\/src\/assets\/tileset4_export.png",
+         "image":"src\/assets\/tileset4_export.png",
          "imageheight":374,
          "imagewidth":374,
          "margin":0,
@@ -386,7 +386,7 @@
         {
          "columns":10,
          "firstgid":476,
-         "image":"..\/src\/assets\/tileset5_export.png",
+         "image":"src\/assets\/tileset5_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -399,7 +399,7 @@
         {
          "columns":4,
          "firstgid":576,
-         "image":"..\/src\/assets\/tiles gather.town\/assets\/Rugs\/welcome mat [4ishx2].png",
+         "image":"src\/assets\/tiles gather.town\/assets\/Rugs\/welcome mat [4ishx2].png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -412,7 +412,7 @@
         {
          "columns":20,
          "firstgid":592,
-         "image":"..\/src\/assets\/tiles gather.town\/assets\/extensions\/top_magic_plant.png",
+         "image":"src\/assets\/tiles gather.town\/assets\/extensions\/top_magic_plant.png",
          "imageheight":64,
          "imagewidth":640,
          "margin":0,
@@ -582,7 +582,7 @@
         {
          "columns":20,
          "firstgid":632,
-         "image":"..\/src\/assets\/tiles gather.town\/assets\/extensions\/magic_plant_32.png",
+         "image":"src\/assets\/tiles gather.town\/assets\/extensions\/magic_plant_32.png",
          "imageheight":64,
          "imagewidth":640,
          "margin":0,
@@ -752,7 +752,7 @@
         {
          "columns":36,
          "firstgid":672,
-         "image":"..\/src\/assets\/tiles gather.town\/objects\/WIP\/Rugs[5x5].png",
+         "image":"src\/assets\/tiles gather.town\/objects\/WIP\/Rugs[5x5].png",
          "imageheight":2240,
          "imagewidth":1152,
          "margin":0,
@@ -765,7 +765,7 @@
         {
          "columns":25,
          "firstgid":3192,
-         "image":"..\/src\/assets\/tiles gather.town\/tilesets\/gather_chairs_1.3.png",
+         "image":"src\/assets\/tiles gather.town\/tilesets\/gather_chairs_1.3.png",
          "imageheight":1024,
          "imagewidth":800,
          "margin":0,
@@ -778,7 +778,7 @@
         {
          "columns":36,
          "firstgid":3992,
-         "image":"..\/src\/assets\/tiles gather.town\/tilesets\/gather_decoration_1.21.png",
+         "image":"src\/assets\/tiles gather.town\/tilesets\/gather_decoration_1.21.png",
          "imageheight":6720,
          "imagewidth":1152,
          "margin":0,
@@ -791,7 +791,7 @@
         {
          "columns":24,
          "firstgid":11552,
-         "image":"..\/src\/assets\/tiles gather.town\/tilesets\/gather_mirror chairs_1.3.png",
+         "image":"src\/assets\/tiles gather.town\/tilesets\/gather_mirror chairs_1.3.png",
          "imageheight":970,
          "imagewidth":799,
          "margin":0,
@@ -804,7 +804,7 @@
         {
          "columns":40,
          "firstgid":12272,
-         "image":"..\/src\/assets\/tiles gather.town\/tilesets\/gather_floors_1.5.png",
+         "image":"src\/assets\/tiles gather.town\/tilesets\/gather_floors_1.5.png",
          "imageheight":2560,
          "imagewidth":1280,
          "margin":0,
@@ -817,7 +817,7 @@
         {
          "columns":2,
          "firstgid":15472,
-         "image":"..\/src\/assets\/tiles gather.town\/objects\/uploaded\/lit_firepit.png",
+         "image":"src\/assets\/tiles gather.town\/objects\/uploaded\/lit_firepit.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -830,7 +830,7 @@
         {
          "columns":4,
          "firstgid":15476,
-         "image":"..\/src\/assets\/tiles gather.town\/objects\/WIP\/JM\/bar_taps_small\/Bar_taps_with_counter.png",
+         "image":"src\/assets\/tiles gather.town\/objects\/WIP\/JM\/bar_taps_small\/Bar_taps_with_counter.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -843,7 +843,7 @@
         {
          "columns":7,
          "firstgid":15492,
-         "image":"..\/src\/assets\/tiles gather.town\/objects\/WIP\/JM\/scraps\/Beach_Objects_All_Hands.png",
+         "image":"src\/assets\/tiles gather.town\/objects\/WIP\/JM\/scraps\/Beach_Objects_All_Hands.png",
          "imageheight":160,
          "imagewidth":224,
          "margin":0,
@@ -856,7 +856,7 @@
         {
          "columns":26,
          "firstgid":15527,
-         "image":"..\/src\/assets\/tiles gather.town\/tilesets\/gather_tables_1.7.png",
+         "image":"src\/assets\/tiles gather.town\/tilesets\/gather_tables_1.7.png",
          "imageheight":1340,
          "imagewidth":832,
          "margin":0,
@@ -869,7 +869,7 @@
         {
          "columns":20,
          "firstgid":16593,
-         "image":"..\/src\/assets\/tiles gather.town\/tilesets\/gather_plants_1.2.png",
+         "image":"src\/assets\/tiles gather.town\/tilesets\/gather_plants_1.2.png",
          "imageheight":1408,
          "imagewidth":640,
          "margin":0,
@@ -882,7 +882,7 @@
         {
          "columns":2,
          "firstgid":17473,
-         "image":"..\/src\/assets\/leavemessage.png",
+         "image":"src\/assets\/leavemessage.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -895,7 +895,7 @@
         {
          "columns":54,
          "firstgid":17477,
-         "image":"..\/src\/assets\/Backdrops_ST 2022.png",
+         "image":"src\/assets\/Backdrops_ST 2022.png",
          "imageheight":2480,
          "imagewidth":1748,
          "margin":0,

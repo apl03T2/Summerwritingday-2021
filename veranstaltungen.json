@@ -429,7 +429,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/src\/assets\/Special_Zones.png",
+         "image":"src\/assets\/Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -452,7 +452,7 @@
         {
          "columns":10,
          "firstgid":13,
-         "image":"..\/src\/assets\/tileset6_export.png",
+         "image":"src\/assets\/tileset6_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -465,7 +465,7 @@
         {
          "columns":11,
          "firstgid":113,
-         "image":"..\/src\/assets\/tileset1.png",
+         "image":"src\/assets\/tileset1.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -478,7 +478,7 @@
         {
          "columns":11,
          "firstgid":234,
-         "image":"..\/src\/assets\/tileset1-repositioning.png",
+         "image":"src\/assets\/tileset1-repositioning.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -491,7 +491,7 @@
         {
          "columns":11,
          "firstgid":355,
-         "image":"..\/src\/assets\/tileset4_export.png",
+         "image":"src\/assets\/tileset4_export.png",
          "imageheight":374,
          "imagewidth":374,
          "margin":0,
@@ -504,7 +504,7 @@
         {
          "columns":10,
          "firstgid":476,
-         "image":"..\/src\/assets\/tileset5_export.png",
+         "image":"src\/assets\/tileset5_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -517,7 +517,7 @@
         {
          "columns":20,
          "firstgid":576,
-         "image":"..\/src\/assets\/floorandstuff_tileset3.png",
+         "image":"src\/assets\/floorandstuff_tileset3.png",
          "imageheight":1456,
          "imagewidth":640,
          "margin":0,
@@ -530,7 +530,7 @@
         {
          "columns":70,
          "firstgid":1476,
-         "image":"..\/src\/assets\/tiles gather.town\/objects\/WIP\/DZ\/Antique\/rug_needlepoint.png",
+         "image":"src\/assets\/tiles gather.town\/objects\/WIP\/DZ\/Antique\/rug_needlepoint.png",
          "imageheight":1792,
          "imagewidth":2240,
          "margin":0,
@@ -543,7 +543,7 @@
         {
          "columns":3,
          "firstgid":5396,
-         "image":"..\/src\/assets\/tiles gather.town\/objects\/WIP\/DZ\/Antique\/Tiffany lamp_greyinline.png",
+         "image":"src\/assets\/tiles gather.town\/objects\/WIP\/DZ\/Antique\/Tiffany lamp_greyinline.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
@@ -556,7 +556,7 @@
         {
          "columns":6,
          "firstgid":5402,
-         "image":"..\/src\/assets\/tiles gather.town\/objects\/WIP\/DZ\/Sound\/speakers.png",
+         "image":"src\/assets\/tiles gather.town\/objects\/WIP\/DZ\/Sound\/speakers.png",
          "imageheight":128,
          "imagewidth":192,
          "margin":0,
@@ -569,7 +569,7 @@
         {
          "columns":77,
          "firstgid":5426,
-         "image":"..\/src\/assets\/timetable workshoproom_Break.png",
+         "image":"src\/assets\/timetable workshoproom_Break.png",
          "imageheight":3508,
          "imagewidth":2480,
          "margin":0,
@@ -582,7 +582,7 @@
         {
          "columns":36,
          "firstgid":13819,
-         "image":"..\/src\/assets\/tiles gather.town\/tilesets\/gather_decoration_1.21.png",
+         "image":"src\/assets\/tiles gather.town\/tilesets\/gather_decoration_1.21.png",
          "imageheight":6720,
          "imagewidth":1152,
          "margin":0,
@@ -624,7 +624,7 @@
         {
          "columns":77,
          "firstgid":21379,
-         "image":"..\/src\/assets\/timetable workshoproom_2.png",
+         "image":"src\/assets\/timetable workshoproom_2.png",
          "imageheight":3508,
          "imagewidth":2480,
          "margin":0,
@@ -637,7 +637,7 @@
         {
          "columns":27,
          "firstgid":29772,
-         "image":"..\/src\/assets\/arrows r&w.png",
+         "image":"src\/assets\/arrows r&w.png",
          "imageheight":1240,
          "imagewidth":874,
          "margin":0,
@@ -650,7 +650,7 @@
         {
          "columns":77,
          "firstgid":30798,
-         "image":"..\/src\/assets\/Beschilderung Workshoproom.png",
+         "image":"src\/assets\/Beschilderung Workshoproom.png",
          "imageheight":3508,
          "imagewidth":2480,
          "margin":0,
@@ -663,7 +663,7 @@
         {
          "columns":25,
          "firstgid":39191,
-         "image":"..\/src\/assets\/tiles gather.town\/tilesets\/gather_chairs_1.3.png",
+         "image":"src\/assets\/tiles gather.town\/tilesets\/gather_chairs_1.3.png",
          "imageheight":1024,
          "imagewidth":800,
          "margin":0,
@@ -676,7 +676,7 @@
         {
          "columns":26,
          "firstgid":39991,
-         "image":"..\/src\/assets\/tiles gather.town\/tilesets\/gather_tables_1.7.png",
+         "image":"src\/assets\/tiles gather.town\/tilesets\/gather_tables_1.7.png",
          "imageheight":1340,
          "imagewidth":832,
          "margin":0,
@@ -689,7 +689,7 @@
         {
          "columns":90,
          "firstgid":41057,
-         "image":"..\/src\/assets\/tiles gather.town\/tilesets\/gather_tables_2.0.png",
+         "image":"src\/assets\/tiles gather.town\/tilesets\/gather_tables_2.0.png",
          "imageheight":3200,
          "imagewidth":2880,
          "margin":0,
@@ -702,7 +702,7 @@
         {
          "columns":24,
          "firstgid":50057,
-         "image":"..\/src\/assets\/tiles gather.town\/tilesets\/gather_mirror chairs_1.3.png",
+         "image":"src\/assets\/tiles gather.town\/tilesets\/gather_mirror chairs_1.3.png",
          "imageheight":970,
          "imagewidth":799,
          "margin":0,
@@ -715,7 +715,7 @@
         {
          "columns":2,
          "firstgid":50777,
-         "image":"..\/src\/assets\/leavemessage.png",
+         "image":"src\/assets\/leavemessage.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -728,7 +728,7 @@
         {
          "columns":4,
          "firstgid":50781,
-         "image":"..\/src\/assets\/tiles gather.town\/assets\/Signage\/hologlobe.png",
+         "image":"src\/assets\/tiles gather.town\/assets\/Signage\/hologlobe.png",
          "imageheight":160,
          "imagewidth":128,
          "margin":0,
@@ -741,7 +741,7 @@
         {
          "columns":1,
          "firstgid":50801,
-         "image":"..\/src\/assets\/tiles gather.town\/assets\/decoration\/interactibles\/sign_simple_active.png",
+         "image":"src\/assets\/tiles gather.town\/assets\/decoration\/interactibles\/sign_simple_active.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -754,7 +754,7 @@
         {
          "columns":1,
          "firstgid":50803,
-         "image":"..\/src\/assets\/tiles gather.town\/assets\/decoration\/interactibles\/sign_simple.png",
+         "image":"src\/assets\/tiles gather.town\/assets\/decoration\/interactibles\/sign_simple.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -767,7 +767,7 @@
         {
          "columns":12,
          "firstgid":50805,
-         "image":"..\/src\/assets\/Infosign.png",
+         "image":"src\/assets\/Infosign.png",
          "imageheight":400,
          "imagewidth":400,
          "margin":0,
@@ -829,7 +829,7 @@
         {
          "columns":54,
          "firstgid":50949,
-         "image":"..\/src\/assets\/Backdrops_ST 2022.png",
+         "image":"src\/assets\/Backdrops_ST 2022.png",
          "imageheight":2480,
          "imagewidth":1748,
          "margin":0,
