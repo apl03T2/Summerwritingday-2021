@@ -1088,6 +1088,17 @@
  "nextlayerid":79,
  "nextobjectid":39,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0)"
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"map.png"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.8.2",
  "tileheight":32,
