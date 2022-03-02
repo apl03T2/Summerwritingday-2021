@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/uni-leipzig\/writingdayws2021\/writingday2021#entry_showroom"
+                 "value":"\/@\/uni-leipzig\/writingday2022\/main#entry_showroom"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/uni-leipzig\/writingdayws2021\/showroom_extension"
+                 "value":"\/@\/uni-leipzig\/writingday2022\/showroom_extension"
                 }],
          "type":"tilelayer",
          "visible":true,

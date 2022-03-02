@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/uni-leipzig\/writingdayws2021\/writingday2021#entry_veranstaltungen"
+                 "value":"\/@\/uni-leipzig\/writingday2022\/main#entry_veranstaltungen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -428,7 +428,7 @@
          "value":""
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.1",
+ "tiledversion":"1.8.2",
  "tileheight":32,
  "tilesets":[
         {

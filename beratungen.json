@@ -338,7 +338,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/uni-leipzig\/writingdayws2021\/writingday2021#entry_beratungen"
+                 "value":"\/@\/uni-leipzig\/writingday2022\/main#entry_beratungen"
                 }],
          "type":"tilelayer",
          "visible":true,
