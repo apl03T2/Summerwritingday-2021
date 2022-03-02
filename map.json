@@ -826,44 +826,6 @@
                  "y":1543.16668333333
                 }, 
                 {
-                 "height":57.1666333333334,
-                 "id":28,
-                 "name":"",
-                 "rotation":180.95902538797,
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#ffffff",
-                     "fontfamily":"Calibri",
-                     "text":"Empfangsbereich | Entrance",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":189.333333333333,
-                 "x":1011.84166294695,
-                 "y":1075.49715033273
-                }, 
-                {
-                 "height":52.8333,
-                 "id":30,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "bold":true,
-                     "color":"#ffffff",
-                     "fontfamily":"Calibri",
-                     "text":"Hauptraum |           Main Room ",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":156,
-                 "x":919.333333333333,
-                 "y":1116.66668333333
-                }, 
-                {
                  "height":44.8333,
                  "id":31,
                  "name":"",
