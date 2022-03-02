@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/uni-leipzig\/writingdayws2021\/writingday2021#entry_chillout"
+                 "value":"\/@\/uni-leipzig\/writingday2022\/main#entry_chillout"
                 }],
          "type":"tilelayer",
          "visible":true,
