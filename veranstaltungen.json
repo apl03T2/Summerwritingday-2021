@@ -84,7 +84,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"JitsiRoom",
+                         "name":"jitsiRoom",
                          "type":"string",
                          "value":"K\u00fcche"
                         }],
@@ -125,12 +125,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"JitsiRoom",
+                         "name":"jitsiRoom",
                          "type":"string",
                          "value":"WissSchreiben"
                         }, 
                         {
-                         "name":"JitsiTrigger",
+                         "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
