@@ -422,7 +422,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/17RcAeWJTL2SAziUEKiskh1_-IGOWZkQV\/view?usp=sharing"
+                 "value":"https:\/\/drive.google.com\/file\/d\/17RcAeWJTL2SAziUEKiskh1_-IGOWZkQV\/preview"
                 }],
          "type":"tilelayer",
          "visible":true,
