@@ -58,12 +58,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"JitsiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"TFAugustin_Jitsi"
                 }, 
                 {
-                 "name":"JitsiTrigger",
+                 "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
                 }],
@@ -81,12 +81,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"JitsiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"TFMarsh_Jitsi"
                 }, 
                 {
-                 "name":"JitsiTrigger",
+                 "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
                 }],
