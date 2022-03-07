@@ -746,7 +746,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1AFdT1O_zO1Lg6Qlc0Y-rY-J6O4IsfNtE\/view?usp=sharing"
+                 "value":"https:\/\/drive.google.com\/file\/d\/1AFdT1O_zO1Lg6Qlc0Y-rY-J6O4IsfNtE\/preview"
                 }, 
                 {
                  "name":"openWebsiteTrigger",

@@ -363,7 +363,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1YyIMMXZ8WNgBbbFRuPn8w4RKH2RBJDY1\/view?usp=sharing"
+                 "value":"https:\/\/drive.google.com\/file\/d\/1YyIMMXZ8WNgBbbFRuPn8w4RKH2RBJDY1\/preview"
                 }, 
                 {
                  "name":"openWebsiteTrigger",

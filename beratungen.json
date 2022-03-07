@@ -118,7 +118,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1HjQjLn2olTFmkWqdC168F7Oq31j3e5QA\/view?usp=sharing"
+                 "value":"https:\/\/drive.google.com\/file\/d\/1HjQjLn2olTFmkWqdC168F7Oq31j3e5QA\/preview"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
