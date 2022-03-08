@@ -770,11 +770,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/leipzig-helps-ukraine.de\/de\/frontpage-deutsch\/"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
