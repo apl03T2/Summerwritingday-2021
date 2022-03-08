@@ -787,7 +787,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.studentenwerk-leipzig.de\/en\/news\/support-students-affected-ukraine-russia-war"
+                 "value":"https:\/\/leipzig-helps-ukraine.de\/de\/frontpage-deutsch\/"
                 }],
          "type":"tilelayer",
          "visible":true,
