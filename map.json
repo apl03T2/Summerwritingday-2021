@@ -569,7 +569,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ub.uni-leipzig.de\/start\/"
+                 "value":"https:\/\/home.uni-leipzig.de\/academiclab\/veranstaltungen\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
